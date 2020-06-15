@@ -1,1 +1,1 @@
-# infinate-scroll-using-javascript-asked-in-walmart-front-end-interview-
+# infinate-scroll-using-javascript-asked-in-walmart-front-end-interview
